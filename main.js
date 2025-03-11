@@ -1,4 +1,4 @@
 function ColorChange() {
     let Color = document.getElementById("Color").value;
-    document.body.style.background = Color;
+    document.body.style.backgroundColor = Color;
 }
