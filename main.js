@@ -1,4 +1,4 @@
 function ColorChange() {
-    let Color = document.getElementById("Color").value;
-    document.body.style.backgroundColor = Color;
+    let randomColor = document.getElementById("colorRandom").value;
+    document.body.style.backgroundColor = randomColor;
 }
